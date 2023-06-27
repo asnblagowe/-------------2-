@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone 14 Pro Max",
+      "image": "https://www.istore.kg/media/products/iphone-14-pro-finish-select-202209-6-7inch-spaceblack_KVl27v8.webp",
+      "price": "1230",
+      "category": "Iphone"
+    },
+    {
+      "id": 2,
+      "title": "Iphone 14 Pro",
+      "image": "https://www.istore.kg/media/products/iphone-14-pro-finish-select-202209-6-1inch-spaceblack_HXToe1H.webp",
+      "price": "1120",
+      "category": "Iphone"
+    },
+    {
+      "id": 3,
+      "title": "Iphone 14 plus",
+      "image": "https://www.istore.kg/media/products/iphone-14-finish-select-202209-6-7inch-product-red_yx6cyQq.webp",
+      "price": "840",
+      "category": "Iphone"
+    },
+    {
+      "id": 4,
+      "title": "Iphone 14",
+      "image": "https://www.istore.kg/media/products/iphone-14-finish-select-202209-6-1inch-yellow_CHhzYsc.webp",
+      "price": "800",
+      "category": "Iphone"
+    },
+    {
+      "id": 5,
+      "title": "Iphone 13 ",
+      "image": "https://www.istore.kg/media/products/iphone-13-blue-select-2021_QT6ur4J.webp",
+      "price": "760",
+      "category": "Iphone"
+    },
+    {
+      "id": 6,
+      "title": "Iphone 13 mini",
+      "image": "https://www.istore.kg/media/products/iphone-13-mini-green-select.webp",
+      "price": "720",
+      "category": "Iphone"
+    },
+    {
+      "id": 7,
+      "title": "Iphone 12",
+      "image": "https://www.istore.kg/media/products/12-Black.webp",
+      "price": "650",
+      "category": "Iphone"
+    },
+    {
+      "id": 8,
+      "title": "Iphone 11",
+      "image": "https://www.istore.kg/media/products/11-black_qdkqJZQ.webp",
+      "price": "500",
+      "category": "Iphone"
+    },
+    {
+      "id": 9,
+      "title": "Watch Ultra Titanium",
+      "image": "https://istore.kg/media/products/MQEE3_VW_34FRwatch-49-titanium-ultra_VW_34FR_WF_COwatch-face-49-ocean-ultra_VW_vKKcX3M.webp",
+      "price": "900",
+      "category": "Watch"
+    },
+    {
+      "id": 10,
+      "title": "Watch Ultra ",
+      "image": "https://istore.kg/media/products/MQEG3ref_VW_34FRwatch-49-titanium-ultra_VW_34FR_WF_COwatch-face-49-trail-ultra_CA7Sncd.webp",
+      "price": "870",
+      "category": "Watch"
+    },
+    {
+      "id": 11,
+      "title": "Watch Series 8",
+      "image": "https://istore.kg/media/products/MPLN3ref_VW_34FRwatch-41-alum-midnight-nc-8s_VW_34FR_WF_CO.webp",
+      "price": "420",
+      "category": "Watch"
+    },
+    {
+      "id": 12,
+      "title": "Watch SE ",
+      "image": "https://istore.kg/media/products/MPLQ3ref_VW_34FRwatch-40-alum-starlight-nc-se_VW_34FR_WF_CO.webp",
+      "price": "290",
+      "category": "Watch"
+    },
+    {
+      "id": 13,
+      "title": "AirPods Max",
+      "image": "https://istore.kg/media/products/AirPods-Max-Blue.webp",
+      "price": "600",
+      "category": "Airpots"
+    },
+    {
+      "id": 14,
+      "title": "AirPods Pro",
+      "image": "https://istore.kg/media/products/MQD83_AV2_LZdu7LV.webp",
+      "price": "245",
+      "category": "Airpots"
+    },
+    {
+      "id": 15,
+      "title": "AirPods 3",
+      "image": "https://istore.kg/media/products/MME73_AV2_6BYTgDV.webp",
+      "price": "190",
+      "category": "Airpots"
+    },
+    {
+      "id": 16,
+      "title": "AirPods 2",
+      "image": "https://istore.kg/media/products/AirPods-1.webp",
+      "price": "135",
+      "category": "Airpots"
+    },
+    {
+      "id": 17,
+      "title": "MacBook Pro 16",
+      "image": "https://istore.kg/media/products/mbp16-spacegray-gallery1-202301_3mrg5Ao.webp",
+      "price": "3650",
+      "category": "Macbook"
+    },
+    {
+      "id": 18,
+      "title": "MacBook Pro 16",
+      "image": "https://istore.kg/media/products/mbp16-silver-gallery1-202301_XJZ7L3s.webp",
+      "price": "3560",
+      "category": "Macbook"
+    },
+    {
+      "id": 19,
+      "title": "MacBook Pro 13",
+      "image": "https://istore.kg/media/products/mbp-silver-gallery1-202206_mgTyBH2.webp",
+      "price": "1580",
+      "category": "Macbook"
+    },
+    {
+      "id": 20,
+      "title": "MacBook Pro 13",
+      "image": "https://istore.kg/media/products/mbp-spacegray-gallery1-202206_0VpMCBD.webp",
+      "price": "1310",
+      "category": "Macbook"
+    },
+    {
+      "id": 21,
+      "title": "MacBook Air 15.3",
+      "image": "https://istore.kg/media/products/mba15-starlight-gallery1-202306_09troJp.webp",
+      "price": "1790",
+      "category": "Macbook"
+    },
+    {
+      "id": 22,
+      "title": "MacBook Air 15.3",
+      "image": "https://istore.kg/media/products/mba15-midnight-gallery1-202306_4lSjqTC.webp",
+      "price": "1590",
+      "category": "Macbook"
+    },
+    {
+      "id": 23,
+      "title": "MacBook Air 13.6",
+      "image": "https://istore.kg/media/products/mba15-spacegray-gallery1-202306_fkT2a1H.webp",
+      "price": "1920",
+      "category": "Macbook"
+    },
+    {
+      "id": 24,
+      "title": "MacBook Air 13.6",
+      "image": "https://istore.kg/media/products/mba15-silver-gallery1-202306_Z2NSN2Y.webp",
+      "price": "1790",
+      "category": "Macbook"
+    }
+  ]
+}
